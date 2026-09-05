@@ -1,0 +1,1 @@
+import{d as e,f as t,p as n}from"../index-CXvoaRw2.js";function r(){return{isColorSchemaConfigured:e,isDark:t,toggleDark:n}}export{r as t};
