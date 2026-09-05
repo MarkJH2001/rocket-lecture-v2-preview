@@ -1,0 +1,1 @@
+var e=`/rocket-lecture-v2-preview/assets/bainian/brand/sjtu-lockup-red-horizontal.png`;export{e as t};

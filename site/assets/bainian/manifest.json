@@ -1,0 +1,586 @@
+{
+  "source": "1.百廿红-李一.pptx",
+  "source_sha256": "32bcf709cc46f1824f58cb23c662e9795f7bef71cc06b8a41f6f3f08d4f21ae9",
+  "slide_count": 21,
+  "canvas": {
+    "aspect_ratio": "16:9",
+    "width_emu": 12192000,
+    "height_emu": 6858000
+  },
+  "media_summary": {
+    "pptx_media_count": 32,
+    "raster_images": 29,
+    "wdp_sources": 3,
+    "svg": 0,
+    "emf": 0,
+    "wmf": 0,
+    "selected_originals": 20,
+    "derived_browser_copies": 1
+  },
+  "assets": [
+    {
+      "output": "brand/sjtu-seal-red.png",
+      "source_member": "ppt/media/image1.png",
+      "category": "brand",
+      "role": "红色独立校徽；母版一级项目符号",
+      "pages": [
+        14,
+        15,
+        16
+      ],
+      "redraw": "不建议重画；应复用官方标志或官方矢量版本",
+      "notes": "142×142 透明 PNG；用于品牌化圆形项目符号。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 8786,
+      "sha256": "55d04bd11507eafb872ea826b0463ad28a364ca6356fea8efdbecaad1905817f",
+      "pixel_dimensions": [
+        142,
+        142
+      ]
+    },
+    {
+      "output": "brand/sjtu-seal-white.png",
+      "source_member": "ppt/media/image12.png",
+      "category": "brand",
+      "role": "白色独立校徽",
+      "pages": [
+        15,
+        20,
+        21
+      ],
+      "redraw": "不建议重画；应复用官方标志或官方矢量版本",
+      "notes": "130×130 透明 PNG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 10790,
+      "sha256": "60134044350d781dea622833df10c98603b903316779e47045770956f20f251d",
+      "pixel_dimensions": [
+        130,
+        130
+      ]
+    },
+    {
+      "output": "brand/sjtu-lockup-red-horizontal.png",
+      "source_member": "ppt/media/image15.png",
+      "category": "brand",
+      "role": "红色横排校徽＋中英文校名",
+      "pages": [
+        1,
+        3,
+        5,
+        6,
+        14,
+        18
+      ],
+      "redraw": "不建议重画；应复用官方标志或官方矢量版本",
+      "notes": "选择同组中像素最高的横排版本；可替代低分辨率重复图。",
+      "replaces_sources": [
+        "ppt/media/image3.png",
+        "ppt/media/image11.png"
+      ],
+      "web_ready": true,
+      "bytes": 59367,
+      "sha256": "76179f9722e125040b380791fac5222712e83096dcc2d36b6da1d7b876770648",
+      "pixel_dimensions": [
+        1135,
+        373
+      ]
+    },
+    {
+      "output": "brand/sjtu-lockup-red-stacked.png",
+      "source_member": "ppt/media/image14.png",
+      "category": "brand",
+      "role": "红色上下组合校徽＋中英文校名",
+      "pages": [
+        7,
+        8,
+        17,
+        19
+      ],
+      "redraw": "不建议重画；应复用官方标志或官方矢量版本",
+      "notes": "选择同组中像素最高的上下组合版本；可替代低分辨率重复图。",
+      "replaces_sources": [
+        "ppt/media/image10.png",
+        "ppt/media/image16.png"
+      ],
+      "web_ready": true,
+      "bytes": 63331,
+      "sha256": "e8790031253ad163bb5435756c6b38e2954ec8e975c60b588a7a3086bd4db725",
+      "pixel_dimensions": [
+        924,
+        648
+      ]
+    },
+    {
+      "output": "brand/sjtu-lockup-white-horizontal.png",
+      "source_member": "ppt/media/image6.png",
+      "category": "brand",
+      "role": "白色横排校徽＋中英文校名",
+      "pages": [
+        4
+      ],
+      "redraw": "不建议重画；应复用官方标志或官方矢量版本",
+      "notes": "522×171 透明 PNG；红底版使用。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 14056,
+      "sha256": "07c5628d235e3cbc5ee652fff3e3583cb680cafb04812100650b1a1677e551ee",
+      "pixel_dimensions": [
+        522,
+        171
+      ]
+    },
+    {
+      "output": "ornaments/historic-gate-red.png",
+      "source_member": "ppt/media/image2.png",
+      "category": "ornament",
+      "role": "交大历史校门红色线稿",
+      "pages": [
+        1,
+        6,
+        7,
+        8,
+        12,
+        19
+      ],
+      "redraw": "可人工描摹为 SVG，但不适合纯 CSS；当前应保留原图",
+      "notes": "选择同组最高分辨率 2668×859 版本。",
+      "replaces_sources": [
+        "ppt/media/image9.png",
+        "ppt/media/image26.png"
+      ],
+      "web_ready": true,
+      "bytes": 257912,
+      "sha256": "fab2a60cc2d6f50e07921cbae0b14c7e8059f6a8b84ab759b8b39f3396bfe9b7",
+      "pixel_dimensions": [
+        2668,
+        859
+      ]
+    },
+    {
+      "output": "ornaments/footer-skyline-red.png",
+      "source_member": "ppt/media/image4.png",
+      "category": "ornament",
+      "role": "红色超宽页脚线与校园天际线",
+      "pages": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        10,
+        11,
+        13,
+        14,
+        16
+      ],
+      "redraw": "直线可用 CSS，天际线宜保留原图或转描 SVG",
+      "notes": "6485×216 透明 PNG；按原始像素保留。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 14875,
+      "sha256": "69026f58a0ffdab5154d718977d675e48cfee9526ea232daf4854c960851717a",
+      "pixel_dimensions": [
+        6485,
+        216
+      ]
+    },
+    {
+      "output": "ornaments/footer-skyline-white.png",
+      "source_member": "ppt/media/image7.png",
+      "category": "ornament",
+      "role": "白色超宽页脚线与校园天际线",
+      "pages": [
+        4,
+        15,
+        20,
+        21
+      ],
+      "redraw": "直线可用 CSS，天际线宜保留原图或转描 SVG",
+      "notes": "6485×216 透明 PNG；红底使用。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 11260,
+      "sha256": "47e828a0a90e2af0c7f293b9bc4f1bafc53fb5e4cde8e1575e1ab46cdc3a198a",
+      "pixel_dimensions": [
+        6485,
+        216
+      ]
+    },
+    {
+      "output": "ornaments/motto-gray.png",
+      "source_member": "ppt/media/image5.png",
+      "category": "ornament",
+      "role": "灰色“饮水思源・爱国荣校”校训字样",
+      "pages": [
+        1,
+        19
+      ],
+      "redraw": "可用文本近似，但字距与字形要完全一致时应复用原图",
+      "notes": "900×124 透明 PNG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 7337,
+      "sha256": "3afba39b330713e36720654fcf376fb557a1caf81cc19111d647731627f6e115",
+      "pixel_dimensions": [
+        900,
+        124
+      ]
+    },
+    {
+      "output": "ornaments/motto-gray-wide.png",
+      "source_member": "ppt/media/image8.png",
+      "category": "ornament",
+      "role": "带左右细线的灰色校训横条",
+      "pages": [
+        6
+      ],
+      "redraw": "左右线可用 CSS；校训字样可复用 motto-gray 或此原图",
+      "notes": "1241×66 透明 PNG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 10713,
+      "sha256": "4654205d28f1962140f4b62d8b9f3880ba427a4c398aeee24c2093c88b28553a",
+      "pixel_dimensions": [
+        1241,
+        66
+      ]
+    },
+    {
+      "output": "backgrounds/lowpoly-white.png",
+      "source_member": "ppt/media/image13.png",
+      "category": "background",
+      "role": "白灰低多边形底纹",
+      "pages": [
+        11
+      ],
+      "redraw": "可用 SVG polygon 或 CSS clip-path 重画",
+      "notes": "1333×750，与 16:9 页面基本一致。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 51410,
+      "sha256": "5b42fb873bc23058b8213140440ff1ba1a5a2d36adf7361820b6dc09480618df",
+      "pixel_dimensions": [
+        1333,
+        750
+      ]
+    },
+    {
+      "output": "photos/page-02-historic-building.jpeg",
+      "source_member": "ppt/media/image17.jpeg",
+      "category": "photo",
+      "role": "老建筑红楼照片",
+      "pages": [
+        2
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "2932×1955，保留原 JPEG 与元数据。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 2428859,
+      "sha256": "8dc944caa6f5ee719402978578543c7cabb5dcb61240e3e34e01f70f475b51d6",
+      "pixel_dimensions": [
+        2932,
+        1955
+      ]
+    },
+    {
+      "output": "photos/page-03-modern-building.jpeg",
+      "source_member": "ppt/media/image18.jpeg",
+      "category": "photo",
+      "role": "现代白色建筑照片",
+      "pages": [
+        3
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "2493×1651，保留原 JPEG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 931423,
+      "sha256": "69c1bca41effeded7221dd7269b13680ff8f8e136eb918c6fba1ba03bf5a0d4d",
+      "pixel_dimensions": [
+        2493,
+        1651
+      ]
+    },
+    {
+      "output": "photos/page-04-08-nanyang-monument.jpg",
+      "source_member": "ppt/media/image19.jpg",
+      "category": "photo",
+      "role": "南洋公学纪念碑与校园照片",
+      "pages": [
+        4,
+        8
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "4256×2832；两页复用同一原图。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 1062488,
+      "sha256": "9c6fcc3e102055519bed09a6be9ee3952b96e2257e0c6dad84c3fef0de1232cb",
+      "pixel_dimensions": [
+        4256,
+        2832
+      ]
+    },
+    {
+      "output": "photos/page-05-stadium.jpeg",
+      "source_member": "ppt/media/image20.jpeg",
+      "category": "photo",
+      "role": "体育馆夜景照片",
+      "pages": [
+        5
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "2472×1648，保留原 JPEG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 1354825,
+      "sha256": "6b72f515675c8e1e110b8b841e0f6ce61a40c4b65df0c5df804bbe1301f79bbc",
+      "pixel_dimensions": [
+        2472,
+        1648
+      ]
+    },
+    {
+      "output": "photos/page-06-campus-building.jpeg",
+      "source_member": "ppt/media/image21.jpeg",
+      "category": "photo",
+      "role": "校园教学楼正立面照片",
+      "pages": [
+        6
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "2629×1979，保留原 JPEG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 1978789,
+      "sha256": "2e067181fd4165ea03a000262349f44d9fdb30dde911d4d2c4b28298069d5079",
+      "pixel_dimensions": [
+        2629,
+        1979
+      ]
+    },
+    {
+      "output": "photos/page-07-gate-lion.jpg",
+      "source_member": "ppt/media/image22.jpg",
+      "category": "photo",
+      "role": "校门石狮照片",
+      "pages": [
+        7
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "1600×1066，保留原 JPEG。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 479791,
+      "sha256": "15275b477ce501a14b70ed22c1a89b0e0ea0a97444a560c65322cb6fd838edc0",
+      "pixel_dimensions": [
+        1600,
+        1066
+      ]
+    },
+    {
+      "output": "photos/page-11-campus-panorama.jpg",
+      "source_member": "ppt/media/image24.jpg",
+      "category": "photo",
+      "role": "校园俯瞰全景照片",
+      "pages": [
+        11
+      ],
+      "redraw": "不能用 CSS/SVG 重画",
+      "notes": "4256×2832，保留原 JPEG 与元数据。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 1486990,
+      "sha256": "5f7585c28eff3cbbca795922fb9994f2b6ad009820dcdabee7d9e7504fd4e7b3",
+      "pixel_dimensions": [
+        4256,
+        2832
+      ]
+    },
+    {
+      "output": "backgrounds/page-12-campus-aerial-blurred.png",
+      "source_member": "ppt/media/image25.png",
+      "category": "background",
+      "role": "第 12 页实际使用的模糊校园航拍背景",
+      "pages": [
+        12
+      ],
+      "redraw": "可由清晰源图配合 CSS filter: blur() 重建；精确复刻可直接复用",
+      "notes": "2928×2196 透明 PNG，是 PowerPoint 艺术效果后的页面素材。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 7431528,
+      "sha256": "209ee0cc149c4b95481f8b7e01d7deedeaad0b350599eb08aa6d7e8be865d355",
+      "pixel_dimensions": [
+        2928,
+        2196
+      ]
+    },
+    {
+      "output": "source-originals/page-12-campus-aerial-sharp.wdp",
+      "source_member": "ppt/media/hdphoto3.wdp",
+      "category": "source-original",
+      "role": "第 12 页模糊背景的清晰 WDP 原始层",
+      "pages": [
+        12
+      ],
+      "redraw": "原图本身不能重画；网页端建议使用同目录转换出的 PNG",
+      "notes": "2928×2196；保留 PPTX 内原始 WDP 字节。",
+      "replaces_sources": [],
+      "web_ready": false,
+      "bytes": 1740845,
+      "sha256": "3cebcd8c785b4dcd55be1e5c5e62f3265f906d0d51729711c09875333d1b0ef1",
+      "pixel_dimensions": null
+    },
+    {
+      "output": "backgrounds/page-12-campus-aerial-sharp.png",
+      "source_member": "ppt/media/hdphoto3.wdp",
+      "category": "derived-browser-copy",
+      "role": "第 12 页清晰校园航拍背景的浏览器可用 PNG",
+      "pages": [
+        12
+      ],
+      "redraw": "不能用 CSS/SVG 重画；可在此清晰图上用 CSS blur() 复现原页",
+      "notes": "由 WDP 解码为无损 PNG，保持 2928×2196，不缩放；原 WDP 同时保留。",
+      "replaces_sources": [],
+      "web_ready": true,
+      "bytes": 7505545,
+      "sha256": "dfb8803bc619b0bfea797bf4e71d2a218642eb2a1f5b01360e3fe803865c8a22",
+      "pixel_dimensions": [
+        2928,
+        2196
+      ],
+      "derived": true
+    }
+  ],
+  "excluded_or_reconstructed": [
+    {
+      "sources": [
+        "ppt/media/image3.png",
+        "ppt/media/image11.png"
+      ],
+      "reason": "低分辨率红色横排校标，已由 image15 高分辨率版本替代。",
+      "pages": [
+        1,
+        3,
+        5,
+        6,
+        14
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/image10.png",
+        "ppt/media/image16.png"
+      ],
+      "reason": "低分辨率红色上下组合校标，已由 image14 高分辨率版本替代。",
+      "pages": [
+        7,
+        8,
+        19
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/image9.png",
+        "ppt/media/image26.png"
+      ],
+      "reason": "低分辨率历史校门线稿，已由 image2 高分辨率版本替代。",
+      "pages": [
+        7,
+        8,
+        12
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/hdphoto1.wdp"
+      ],
+      "reason": "image6 白色校标的红色效果源；现有高分辨率红色校标更适合复用。",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/hdphoto2.wdp"
+      ],
+      "reason": "image7 白色页脚的红色效果源；与保留的 image4 红色页脚重复。",
+      "pages": [
+        4,
+        15,
+        20,
+        21
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/image23.png"
+      ],
+      "reason": "第 10 页“目录”合成卡片；应使用保留的校标/校门素材和可编辑 CSS 文本重建。",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/image27.png"
+      ],
+      "reason": "第 20 页模板缩略图截图，仅用于说明文档，不是主题素材。",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "sources": [
+        "ppt/media/image28.png",
+        "ppt/media/image29.png"
+      ],
+      "reason": "第 21 页 PowerPoint 配色设置截图，仅用于说明文档，不是主题素材。",
+      "pages": [
+        21
+      ]
+    }
+  ],
+  "ooxml_redraw_notes": [
+    {
+      "pages": [
+        4,
+        5,
+        9,
+        10,
+        13,
+        14,
+        15,
+        16,
+        19
+      ],
+      "objects": "色块、分栏、细线、编号、渐变斜带、箭头/折线与普通文本",
+      "recommendation": "使用 CSS grid/flex、border、linear-gradient、clip-path 和文本重画。"
+    },
+    {
+      "pages": [
+        9
+      ],
+      "objects": "四个校园建筑线性图标",
+      "recommendation": "优先从 OOXML 自由曲线人工转写为小型 SVG；不必截图。"
+    },
+    {
+      "pages": [
+        10
+      ],
+      "objects": "“目录”悬浮卡片",
+      "recommendation": "用 CSS 阴影、边框和可编辑文字，组合保留的品牌/校门素材。"
+    },
+    {
+      "pages": [
+        19
+      ],
+      "objects": "白色双折线/燕尾形",
+      "recommendation": "用 CSS clip-path polygon 重画。"
+    }
+  ]
+}

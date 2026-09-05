@@ -1,0 +1,1 @@
+var e=`/rocket-lecture-v2-preview/assets/bainian/ornaments/historic-gate-red.png`;export{e as t};
